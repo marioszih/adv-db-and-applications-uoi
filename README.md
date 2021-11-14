@@ -31,5 +31,5 @@ parent folder for the frontend written in React
 
 ## Credits
 Marios Zixnalis</br>
-Eleni Mouzaki</br>
-Panagiotis Papaioannou</br>
+Eleni Mouzaki  https://github.com/mouzmouz</br>
+Panagiotis Papaioannou  https://github.com/ppapaioannou</br>
